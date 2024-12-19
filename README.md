@@ -9,7 +9,7 @@ Client wants to create a Road Accident Dashboard for year 2021 and 2022 so that 
 + *SECONDARY KPI's* -Total casualties  with respect to vehicle type
 + Monthly trend showing comparison of casualties for current year and previous year
 + Maximum casualties by Road type
-+ Distribution of total casualties by Road Surface
++ Distribution of total casualties by Road Surface  
 + Ralation between casualties by area and by day/night
 ## Tools Used
 The project was developed entirely using Microsoft Excel,from data cleaning to visualization.
